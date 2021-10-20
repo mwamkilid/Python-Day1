@@ -1,1 +1,2 @@
 Today wednesday 20/10/2021 we learned about how to push files into the github and how to pull
+We also learned about Git Bash
